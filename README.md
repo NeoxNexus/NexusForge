@@ -1,4 +1,10 @@
-# NexusForge
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/258567441?v=4" alt="NeoxNexus Logo" width="300"/>
+</div>
+
+
+<h1 align="center">💡NexusForge</h1>
+
 
 NexusForge is a local-first MVP for capturing ideas, storing them in an Obsidian-compatible vault, incubating them into executable plans, and optionally pushing derived tasks to a task board.
 
