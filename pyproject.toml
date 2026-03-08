@@ -1,0 +1,17 @@
+[project]
+name = "nexusforge"
+version = "0.1.0"
+description = "Local-first idea capture and incubation MVP for Obsidian-style vaults."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+  { name = "NeoxNexus" }
+]
+dependencies = []
+
+[project.scripts]
+nexusforge = "nexusforge.cli:main"
+
+[tool.setuptools]
+packages = ["nexusforge"]
+

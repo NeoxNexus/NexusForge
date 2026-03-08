@@ -1,0 +1,16 @@
+[vault]
+root = "/Users/neo/ideas-vault"
+timezone = "America/Los_Angeles"
+ideas_dir = "ideas"
+incubations_dir = "incubations"
+taskboard_outbox_dir = "taskboard-outbox"
+logs_dir = "logs"
+
+[taskboard]
+endpoint = ""
+api_key = ""
+
+[heartbeat]
+cron_timezone = "America/Los_Angeles"
+hour = 9
+minute = 0
